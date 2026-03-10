@@ -1,0 +1,15 @@
+Arduino Theft Alarm System – Cybersecurity 
+
+This project presents a theft alarm system built using Arduino to demonstrate
+basic physical securityprinciples within the field of cybersecurity. The system
+integrates sensors and output devices to detectunauthorized motion and provide
+real-time alerts.The hardware setup includes a PIR motion sensor, LCD display,
+buzzer, LED, push button, and potentiometer, programmed through the Arduino IDE.
+The script monitors sensor input,triggers alerts through the buzzer and LED, and
+displays status messages on the LCD.Key tasks involved designingthe system logic,
+implementing the Arduino code, integrating multiple components, and testing the system
+to ensureaccurate detection and timely alerts. Screenshots and circuit diagrams were used
+to document the setup and results.This lab helped develop practical skills in embedded system
+security, sensor management, and automated alert systems,which are fundamental to cybersecurity.
+It demonstrates how software and hardware can be combined to create secure,
+responsive systems for monitoring and protecting assets.
